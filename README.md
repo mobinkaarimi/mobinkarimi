@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobinkaarimi&label=Profile%20views&color=0e75b6&style=flat" alt="mobinkaarimi" /> </p>
 
+- 👨‍💻 All of my projects are available at [mobinkarimi.com](mobinkarimi.com)
+
+- 💬 Ask me about **next, react, gsap, functional programming, Tradingview Library and leaflet**
+
+- 📫 How to reach me **mobinkaarimi@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mobinkarimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mobinkarimi" height="30" width="40" /></a>
